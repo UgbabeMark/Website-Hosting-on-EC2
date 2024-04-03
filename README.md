@@ -70,13 +70,36 @@ hit y to install Apache
 
 
 # 11. Navigate to the Unzipped Directory
+
+![website](Unzippedfile.png)
+use ls -lrt to see the file carvilla-v1.0
+
+
+
 # 12. Check Files in the Directory
+
+![website](check_directory.png)
+
+
 # 13. Move Files to Web Server Directory
+
+ ![website](move_directory_files.png)
+ 
+
 # 14. Verify Files Moved Successfully
-# 15. Test Your Website
+
+ ![website](verify_moved.png)
+ 
+ 
 # 15. Copy the public IP address of your EC2 instance.
 
-# 17. Paste it into a web browser and hit enter to access your website.
+ ![website](copy_publicip.png)
+
+# 16. Paste it into a web browser and hit enter to access your website.
+
+# 17. Test Your Website
+
+27. ![website](Test_website.png)
 
 # 18. Linux Commands Used:
 
