@@ -35,6 +35,8 @@ Connect to your EC2 instance using SSH or Instance Connect.
 
 
 # 4. Install Web Server (Apache HTTP Server)
+![instance_connect](Install_webserver.png)
+
 # 6. Check Status of HTTPD (Apache)
 # 7. Enable HTTPD
 # 8. Create a Directory
