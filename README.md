@@ -37,7 +37,13 @@ Connect to your EC2 instance using SSH or Instance Connect.
 # 4. Install Web Server (Apache HTTP Server)
 ![instance_connect](Install_webserver.png)
 
+hit y to install Apache
+
+
 # 6. Check Status of HTTPD (Apache)
+
+![website](httpd_statuscheck.png)
+
 # 7. Enable HTTPD
 # 8. Create a Directory
 # 9. Download Website Files
