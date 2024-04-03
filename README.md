@@ -21,93 +21,96 @@ This repository contains resources and instructions for hosting a website on an 
 . Navigate to the EC2 dashboard on AWS Management Console.
 . Launch a new EC2 instance, choosing an appropriate instance type, AMI, and configuration.
 
+
+# 2. security group
 ![website](securitygroup.png)
 . Ensure to configure security groups to allow inbound traffic on ports 80 (HTTP) and 22 (SSH) from anywhere.
 
-# 2. Connect to EC2 Instance
+
+# 3. Connect to EC2 Instance
 
 ![instance_connect](Instance_connect.png)
 
 
 Connect to your EC2 instance using SSH or Instance Connect.
 
-# 3. Update the System
+# 4. Update the System
 
 ![instance_connect](Update_system.png)
 
 
-# 4. Install Web Server (Apache HTTP Server)
+# 5. Install Web Server (Apache HTTP Server)
 ![instance_connect](Install_webserver.png)
 
 Hit y to install Apache
 
 
-# 5. Check Status of HTTPD (Apache)
+# 6. Check Status of HTTPD (Apache)
 
 ![website](httpd_statuscheck.png)
 
-# 6. Enable HTTPD
+# 7. Enable HTTPD
 
 ![website](httpd_enable.png)
 
-# 7. Check system running
+# 8. Check system running
 
 ![website](systemccheck_running.png)
 
 
-# 8. Create a Directory
+# 9. Create a Directory
 
 ![website](Create_directory.png)
  cd temp/ after creating temp directory
 
-# 9. Download Website zip Files
+# 10. Download Website zip Files
 
  ![website](download_websitesip.png)
 
  
-# 10. list and Unzip Website Files
+# 11. list and Unzip Website Files
 
  ![website](list_directory.png)
  ![website](Unzip_website.png)
 
 
-# 11. Navigate to the Unzipped Directory
+# 12. Navigate to the Unzipped Directory
 
 ![website](Unzippedfile.png)
 use ls -lrt to see the file carvilla-v1.0
 
 
 
-# 12. Check Files in the Directory
+# 13. Check Files in the Directory
 
 ![website](check_directory.png)
 cd carvilla-v1.0 and ls -lrt to see the available files
 
 
 
-# 13. Move Files to Web Server Directory
+# 14. Move Files to Web Server Directory
 
  ![website](move_directory_files.png)
  
 
-# 14. Verify Files Moved Successfully
+# 15. Verify Files Moved Successfully
 
  ![website](verify_moved.png)
  
  
-# 15. Copy the public IP address of your EC2 instance.
+# 16. Copy the public IP address of your EC2 instance.
 
  ![website](copy_publicip.png)
 
-# 16. Paste it into a web browser and hit enter to access your website.
+# 17. Paste it into a web browser and hit enter to access your website.
 
 ![website](paste_browser.png)
 
-# 17. Test Your Website
+# 18. Test Your Website
 
  ![website](Test_website.png)
 
-# 18. Linux Commands Used:
+# 19. Linux Commands Used:
 
 sudo yum update -y
 
