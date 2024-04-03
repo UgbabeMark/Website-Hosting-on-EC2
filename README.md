@@ -50,20 +50,22 @@ hit y to install Apache
 
 # 8. Check system running
 
+![website](systemccheck_running.png)
 
-# 8. Create a Directory
-# 9. Download Website Files
-# 10. Unzip Website Files
-# 11. Navigate to the Unzipped Directory
-# 12. Check Files in the Directory
-# 13. Move Files to Web Server Directory
-# 14. Verify Files Moved Successfully
-# 15. Test Your Website
-# 16. Copy the public IP address of your EC2 instance.
 
-# 17. Paste it into a web browser and hit enter to access your website.
+# 9. Create a Directory
+# 10. Download Website Files
+# 11. Unzip Website Files
+# 12. Navigate to the Unzipped Directory
+# 13. Check Files in the Directory
+# 14. Move Files to Web Server Directory
+# 15. Verify Files Moved Successfully
+# 16. Test Your Website
+# 17. Copy the public IP address of your EC2 instance.
 
-# Linux Commands Used:
+# 18. Paste it into a web browser and hit enter to access your website.
+
+# 19. Linux Commands Used:
 
 sudo yum update -y
 
