@@ -97,9 +97,11 @@ use ls -lrt to see the file carvilla-v1.0
 
 # 16. Paste it into a web browser and hit enter to access your website.
 
+![website](paste_browser.png)
+
 # 17. Test Your Website
 
-27. ![website](Test_website.png)
+ ![website](Test_website.png)
 
 # 18. Linux Commands Used:
 
