@@ -54,7 +54,12 @@ hit y to install Apache
 
 
 # 9. Create a Directory
+
+![website](Create_directory.png)
+ cd temp/ after creating temp directory
+
 # 10. Download Website Files
+
 # 11. Unzip Website Files
 # 12. Navigate to the Unzipped Directory
 # 13. Check Files in the Directory
