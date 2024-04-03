@@ -31,6 +31,9 @@ Connect to your EC2 instance using SSH or Instance Connect.
 
 # 3. Update the System
 
+![instance_connect](Update_system.png)
+
+
 # 4. Install Web Server (Apache HTTP Server)
 # 6. Check Status of HTTPD (Apache)
 # 7. Enable HTTPD
