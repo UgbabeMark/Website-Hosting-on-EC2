@@ -21,7 +21,7 @@ This repository contains resources and instructions for hosting a website on an 
 . Navigate to the EC2 dashboard on AWS Management Console.
 . Launch a new EC2 instance, choosing an appropriate instance type, AMI, and configuration.
 
-27. ![website](securitygroup.png)
+![website](securitygroup.png)
 . Ensure to configure security groups to allow inbound traffic on ports 80 (HTTP) and 22 (SSH) from anywhere.
 
 # 2. Connect to EC2 Instance
@@ -39,7 +39,7 @@ Connect to your EC2 instance using SSH or Instance Connect.
 # 4. Install Web Server (Apache HTTP Server)
 ![instance_connect](Install_webserver.png)
 
-hit y to install Apache
+Hit y to install Apache
 
 
 # 5. Check Status of HTTPD (Apache)
