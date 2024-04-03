@@ -24,7 +24,7 @@ This repository contains resources and instructions for hosting a website on an 
 
 # 2. Connect to EC2 Instance
 
-![instance connect](Instance connect.png)
+![instance_connect](Instanceconnect.png)
 
 
 Connect to your EC2 instance using SSH or Instance Connect.
