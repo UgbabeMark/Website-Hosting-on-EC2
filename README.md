@@ -40,37 +40,42 @@ Connect to your EC2 instance using SSH or Instance Connect.
 hit y to install Apache
 
 
-# 6. Check Status of HTTPD (Apache)
+# 5. Check Status of HTTPD (Apache)
 
 ![website](httpd_statuscheck.png)
 
-# 7. Enable HTTPD
+# 6. Enable HTTPD
 
 ![website](httpd_enable.png)
 
-# 8. Check system running
+# 7. Check system running
 
 ![website](systemccheck_running.png)
 
 
-# 9. Create a Directory
+# 8. Create a Directory
 
 ![website](Create_directory.png)
  cd temp/ after creating temp directory
 
-# 10. Download Website Files
+# 9. Download Website zip Files
 
-# 11. Unzip Website Files
-# 12. Navigate to the Unzipped Directory
-# 13. Check Files in the Directory
-# 14. Move Files to Web Server Directory
-# 15. Verify Files Moved Successfully
-# 16. Test Your Website
-# 17. Copy the public IP address of your EC2 instance.
+ ![website](download_websitesip.png)
 
-# 18. Paste it into a web browser and hit enter to access your website.
+ 
+# 10. Unzip Website Files
 
-# 19. Linux Commands Used:
+
+# 11. Navigate to the Unzipped Directory
+# 12. Check Files in the Directory
+# 13. Move Files to Web Server Directory
+# 14. Verify Files Moved Successfully
+# 15. Test Your Website
+# 15. Copy the public IP address of your EC2 instance.
+
+# 17. Paste it into a web browser and hit enter to access your website.
+
+# 18. Linux Commands Used:
 
 sudo yum update -y
 
