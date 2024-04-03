@@ -63,7 +63,10 @@ hit y to install Apache
  ![website](download_websitesip.png)
 
  
-# 10. Unzip Website Files
+# 10. list and Unzip Website Files
+
+ ![website](list_directory.png)
+ ![website](Unzip_website.png)
 
 
 # 11. Navigate to the Unzipped Directory
