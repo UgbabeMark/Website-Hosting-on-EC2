@@ -45,6 +45,12 @@ hit y to install Apache
 ![website](httpd_statuscheck.png)
 
 # 7. Enable HTTPD
+
+![website](httpd_enable.png)
+
+# 8. Check system running
+
+
 # 8. Create a Directory
 # 9. Download Website Files
 # 10. Unzip Website Files
