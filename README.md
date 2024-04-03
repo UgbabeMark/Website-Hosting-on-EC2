@@ -15,6 +15,9 @@ This repository contains resources and instructions for hosting a website on an 
 # Steps:
 
 # 1. Create an EC2 Instance
+
+![Ec2 creation](EC2.png)
+
 . Navigate to the EC2 dashboard on AWS Management Console.
 . Launch a new EC2 instance, choosing an appropriate instance type, AMI, and configuration.
 . Ensure to configure security groups to allow inbound traffic on ports 80 (HTTP), 443 (HTTPS), and 22 (SSH) from anywhere.
