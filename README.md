@@ -23,7 +23,10 @@ This repository contains resources and instructions for hosting a website on an 
 . Ensure to configure security groups to allow inbound traffic on ports 80 (HTTP), 443 (HTTPS), and 22 (SSH) from anywhere.
 
 # 2. Connect to EC2 Instance
-.Connect to your EC2 instance using SSH or Instance Connect.
+
+![Ec2 creation](Instance connect.png)
+
+Connect to your EC2 instance using SSH or Instance Connect.
 
 # 3. Update the System
 
